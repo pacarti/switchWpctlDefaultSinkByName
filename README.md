@@ -6,14 +6,14 @@ Useful when assigning the keybinding - instead of manually seeking to find the i
 The script fetches the ID of the demanded sink, after switches the default sink using that id, like you would normally do with:<br>
 <code>wpctl set-default &lt;sinkID&gt;</code>
 <br><br>
-<h1>switchSinkToAnalog</h1>
+<h2>switchSinkToAnalog</h2>
 Allows changing the default sink set on wpctl to Analog - in this case, if it starts with 'Built-in' phrase. 
 
-<h2>Running the script</h2>
+<h3>Running the script</h3>
 <code>python3 switchSinkToAnalog.py</code>
-<br><br><br>
-<h1>switchSinkToHDMI</h1>
+<br><br>
+<h2>switchSinkToHDMI</h2>
 Allows changing the default sink set on wpctl to HDMI - in this case, if it starts with 'Baffin' phrase. 
 
-<h2>Running the script</h2>
+<h3>Running the script</h3>
 <code>python3 switchSinkToHDMI.py</code>
