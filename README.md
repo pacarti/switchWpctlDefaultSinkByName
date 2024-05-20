@@ -1,5 +1,5 @@
 # switchWpctlDefaultSinkByName 
-Allows changing the default sink set on wpctl by name. Based on the script made by Sebastiaan76: https://github.com/Sebastiaan76/waybar_wireplumber_audio_changer/tree/main
+Allows changing the default sink set on wireplumber by name. Based on the script made by Sebastiaan76: https://github.com/Sebastiaan76/waybar_wireplumber_audio_changer/tree/main
 
 Useful when assigning the keybinding - instead of manually seeking to find the id of demanded sink in order to switch to it, you can assign a keybinding to run this script that does it automatically.
 
